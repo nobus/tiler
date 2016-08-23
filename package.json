@@ -1,0 +1,12 @@
+{
+  "name": "tiler",
+  "version": "1.0.0",
+  "description": "Tiler",
+  "main": "tiler.js",
+  "author": "Maks Klimin",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.4.0",
+    "commander": "^2.9.0"
+  }
+}
